@@ -1,0 +1,6 @@
+tpms_monitor_ns:
+  tpms_monitor:
+    ros__parameters:
+      log_level: 20
+      devices:
+        rdd: '30:25'
